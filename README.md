@@ -12,4 +12,4 @@ Project > Info > URL Types and make sure that you use the same redirect URI that
 
 You will need an Application on Reddit so go to https://www.reddit.com/prefs/apps and create an app with the same deep link URL.
 
-In code construct the RedditSDK with the `redirectUR`L and the `ClientID` and you can call `authenticate`.
+In code construct the RedditSDK with the `redirectURL` and the `ClientID` and you can call `authenticate`.
